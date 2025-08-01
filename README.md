@@ -217,9 +217,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu-email@ejemplo.com
+- GitHub: [@RicardoColima](https://github.com/RicardoColima)
+
 
 ## 🙏 Agradecimientos
 
